@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.ibb.co/rmfbW0L/Farhad-Hossain-1.jpg" alt="GitHub Streak" />
+<img width="500" src="https://i.ibb.co/rmfbW0L/Farhad-Hossain-1.jpg" alt="GitHub Streak" />
 
 ## Current Stats :
 
