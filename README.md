@@ -31,4 +31,3 @@
 
 
 
-<!-- description add kora baki -->
