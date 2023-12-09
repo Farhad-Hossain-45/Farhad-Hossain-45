@@ -8,5 +8,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhad-Hossain-45&theme=algolia)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhad-Hossain-45&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farhad-Hossain-45&theme=algolia&utcOffset=8)
+
 ## Technology 
 <img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg"/>
