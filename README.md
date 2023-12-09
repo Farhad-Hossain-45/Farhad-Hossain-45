@@ -4,4 +4,4 @@
 
 ## Current Stats :
 
-<p width="800"]>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farhad-Hossain-45&theme=vue-dark)](https://git.io/streak-stats)</p>
+<img width="800"]>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farhad-Hossain-45&theme=vue-dark)](https://git.io/streak-stats)</img>
