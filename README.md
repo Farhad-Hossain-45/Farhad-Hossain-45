@@ -2,6 +2,15 @@
 
 <img  src="https://raw.githubusercontent.com/Farhad-Hossain-45/Farhad-Hossain-45/main/assets/Farhad%20Hossain%20(1).jpg" alt="GitHub Streak" />
 
+<h1 align="center">Hi 👋, I'm Farhad Hossain</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+-  As a react developer i use react Library.
+-  For styling i use tailwind beacayse of some awesome utility.
+-  my main programming language is javascript so i use it in daily basis.
+-  Currently i started using next js for it's server side rendering.
+-  Sometimes i use DaisyUI as a component library.
+-  for server and back end i use mongodb, express, node js.
 ## Current Stats :
 
 <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=Farhad-Hossain-45&theme=vue-dark"></img>
